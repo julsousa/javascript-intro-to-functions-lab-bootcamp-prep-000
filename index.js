@@ -1,9 +1,9 @@
 function shout(string) {
     return string.toUpperCase()
 }
-function whisper(hello) {
+function whisper() {
     return `hello`
 }
 function logShout(spy) {
-   console.log('hello').toUpperCase()
+   return console.log('hello').toUpperCase()
 }
