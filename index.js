@@ -7,3 +7,6 @@ function whisper(string) {
 function logShout(spy) {
    return console.log('hello').toUpperCase()
 }
+function sayHitoGrandma(string) {
+  
+}
